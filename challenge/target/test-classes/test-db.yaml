@@ -1,0 +1,4 @@
+database.url=jdbc:postgresql://localhost/postgres
+database.driver=org.postgresql
+database.user=postgres
+database.password=jja
